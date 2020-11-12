@@ -1,5 +1,5 @@
-                                                        <h3 align='center'> Heya 👋, I'm Bolaji</h3>
-   <p align="center">
+<h3 align="center"> Heya 👋, I'm Bolaji</h3>
+<p align="center">
   <a href="https://twitter.com/beejayBot">Twitter</a>
 </p>
 
