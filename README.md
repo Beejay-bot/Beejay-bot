@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning Node js && AWS
 - 💬 Ask me about React, Django, Soccer and games.
-- 📫 Hit me up on; [@beejayBot_](https://twitter.com/beejayBot_)
+- 📫 Hit me up on; [@beejayBot](https://twitter.com/beejayBot)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lol
