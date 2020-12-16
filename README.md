@@ -6,7 +6,7 @@
                                                         
                                                         A Fullstack developer (Javascript && Python)
 
-- 🌱 I’m currently learning Node js && AWS
+- 🌱 I’m currently learning Ruby on Rails && AWS
 - 💬 Ask me about React, Django, Soccer and games.
 - 📫 Hit me up on; [@beejayBot](https://twitter.com/beejayBot)
 - 😄 Pronouns: He/Him
