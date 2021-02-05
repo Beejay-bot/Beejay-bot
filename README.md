@@ -4,7 +4,7 @@
 </p>
 
                                                         
-                                                        A Fullstack developer (Javascript && Python)
+                                                        A Fullstack developer (Javascript, Python, && Ruby on Rails)
 
 - 🌱 I’m currently learning Ruby on Rails && AWS
 - 💬 Ask me about React, Django, Soccer and games.
