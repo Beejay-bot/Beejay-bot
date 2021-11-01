@@ -11,3 +11,8 @@
 - 📫 Hit me up on; [@beejayBot](https://twitter.com/beejayBot)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lol
+
+[![Bolaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beejay-bot&count_private=true&show_icons=true)
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beejay-bot)](https://github.com/anuraghazra/github-readme-stats)
