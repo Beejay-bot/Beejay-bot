@@ -13,8 +13,8 @@
 - ⚡ Fun fact: Lol
 
 
-(https://github-readme-stats.vercel.app/api?username=Beejay-bot&count_private=true&show_icons=true&theme=prussian)
+[![Beejay-bot's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Beejay-bot&count_private=true&show_icons=true&theme=prussian)
 
 ===================================================================================
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Beejay-bot&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beejay-bot&layout=compact)
