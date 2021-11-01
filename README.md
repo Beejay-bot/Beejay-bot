@@ -12,8 +12,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lol
 
-[![Bolaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beejay-bot&count_private=true&show_icons=true&theme=prussian)
 
+(https://github-readme-stats.vercel.app/api?username=Beejay-bot&count_private=true&show_icons=true&theme=prussian)
 
+===================================================================================
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beejay-bot&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Beejay-bot&layout=compact)
