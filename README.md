@@ -4,9 +4,9 @@
 </p>
 
                                                         
-                                       A Fullstack developer (Javascript, Python, && Ruby on Rails)
+                                       A Fullstack developer (Javascript, Python, && Golang)
 
-- 🌱 I’m currently learning NodeJS && blockchain technology
+- 🌱 I’m currently learning Golang && blockchain technology
 - 💬 Ask me about React, Django, Soccer and games.
 - 📫 Hit me up on; [@beejayBot](https://twitter.com/beejayBot)
 - 😄 Pronouns: He/Him
