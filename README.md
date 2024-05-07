@@ -6,7 +6,7 @@
                                                         
                                        A Fullstack developer (Javascript, Python, && Golang)
 
-- 🌱 I’m currently learning Golang && blockchain technology
+- 🌱 I’m currently learning Cloud Engineering
 - 💬 Ask me about React, Django, Soccer and games.
 - 📫 Hit me up on; [@beejayBot](https://twitter.com/beejayBot)
 - 😄 Pronouns: He/Him
